@@ -12,6 +12,11 @@ I'm a self-taught developer exploring the intersection of code, security, and ph
 
 **💡 Between logic and imagination, I seek the code of existence.**
 
+<!-- Image -->
+<p align="center">
+  <img src="assets/philo-anime.jpg" alt="anime coding" width="700"/>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sliman-abdellaoui-399b81378/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/niet.z7che/) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@el-seen)
 
 ---
