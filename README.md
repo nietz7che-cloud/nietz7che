@@ -14,8 +14,9 @@ I'm a self-taught developer exploring the intersection of code, security, and ph
 
 <!-- Your First Image -->
 <p align="center">
-  <img src="assets/philo-anime.jpg" alt="anime coding" width="700"/>
+  <img src="photo_2025-09-25_20-44-08.jpg" width="700" alt="anime coding"/>
 </p>
+
 
 <!-- PLACEHOLDER: Your Second Image Goes Here -->
 <!-- 
