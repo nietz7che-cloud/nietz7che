@@ -43,9 +43,6 @@ I'm a self-taught developer exploring the intersection of code, security, and ph
   <img src="https://github-readme-stats.vercel.app/api?username=nietz7che-cloud&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=54A6FF&icon_color=54A6FF&text_color=9f9f9f" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietz7che-cloud&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=54A6FF&text_color=9f9f9f" height="165">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nietz7che-cloud&theme=react&hide_border=true&background=1F222E&stroke=1F222E&ring=54A6FF&fire=54A6FF&currStreakLabel=54A6FF" />
-</p>
 
 ---
 
