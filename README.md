@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=nietz7che;Mobile+Developer+(Flutter);English+Literature+&+Philosophy+Student" alt="Typing SVG" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=nietz7che;Mobile+Developer+(Flutter);English+Literature+Philosophy+Student" alt="Typing SVG" />
 
 <br>
 <br>
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### 👋 Hello World!
+### 👋 Hey fellas!
 
 I have no Mouth, and i must scream.
 
